@@ -1,0 +1,6 @@
+{
+  "name": "BoB Store",
+  "description": "متجر BoB Store الفاخر لإكسسوارات الهواتف مع لوحة تحكم أدمين متقدمة ودعم ثنائي اللغة ثلاثي الأبعاد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

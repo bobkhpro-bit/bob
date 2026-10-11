@@ -1,0 +1,19 @@
+{
+  "name": "bob-store-api",
+  "version": "1.0.0",
+  "description": "BoB Store - Secure Minimalist Phone Accessories JSON API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node server.js --seed"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
